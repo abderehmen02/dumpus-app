@@ -227,6 +227,7 @@
         "description": "Not enough storage in app"
       },
       "deleting": "Deleting...",
+      "addPackage"  : "Add a new package"  ,
       "delete": "Delete current package",
       "restoring": "Restoring...",
       "restorePurchases": "Restore purchases"
